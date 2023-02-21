@@ -11,4 +11,4 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 3 ('1'*0.21€)
 4 se età < 18 applicare sconto 20%
 5 se età > 65 applicare sconto 40%
-6 utilizzare (Math.round(num * 100) / 100).toFixed(2); per output prezzo finale
+6 utilizzare (Math.round(num * 100) / 100).toFixed(2); per output prezzo finale         
